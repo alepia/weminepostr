@@ -10,7 +10,7 @@ const data = {
   intro:
     "Hi, I’m Alejandro Piacquadio, a software developer with experience in web application development. I love learning new technologies and am constantly looking for new opportunities to improve my skills. I am also a chef but am currently looking for a change. I would love to work on your team and help you build something amazing.",
   note: "I am a fast learner and I am always looking for new opportunities to improve my skills.",
-  code_url: "",
+  code_url: "https://github.com/alepia/weminepostr",
 };
 
 axios
